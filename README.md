@@ -3,8 +3,6 @@
 
 ## Steps to set up local development environment
 
-### Setting local blockchain
-
 1. We need to Download and install xampp to run the PHP files.
 
    ```
