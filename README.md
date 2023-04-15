@@ -2,6 +2,10 @@
 >Built using Ethereum on local blockchain setup and deployed on Rinkeby test network.
 
 ## Steps to set up local development environment
+### Setting local database
+1. Find the file in the Database folder name 'bcertify'.
+2. Open 'localhost/phpmyadmin/'. Then go to Databases -> Click on 'Create Database' -> Giver the database  name '' -> Click on the 'Import' button on the top bar -> Under the 'File to import' Section Click on Browse and Select the .SQL file-> Click 'Import'.
+3. You can see all the tables and Data
 
 1. We need to Download and install xampp to run the PHP files.
 
@@ -22,10 +26,7 @@
 
 > The above 2 steps need to be run everytime you are running the project.
 
-### Setting local database
-1. Find the file in the Database folder name 'bcertify'.
-2. Open 'localhost/phpmyadmin/'. Then go to Databases -> Click on 'Create Database' -> Giver the database  name '' -> Click on the 'Import' button on the top bar -> Under the 'File to import' Section Click on Browse and Select the .SQL file-> Click 'Import'.
-3. You can see all the tables and Data
+
 
 
 ### Now we can start the server
