@@ -7,7 +7,7 @@
 2. Open 'localhost/phpmyadmin/'. Then go to Databases -> Click on 'Create Database' -> Giver the database  name '' -> Click on the 'Import' button on the top bar -> Under the 'File to import' Section Click on Browse and Select the .SQL file-> Click 'Import'.
 3. You can see all the tables and Data
 
-###To Run the Code
+### To Run the Code
 1. We need to Download and install xampp to run the PHP files.
 
    ```
