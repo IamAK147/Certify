@@ -1,5 +1,4 @@
 # Blockchain Based Certificate Specification
->Built using Ethereum on local blockchain setup and deployed on Rinkeby test network.
 
 ## Steps to set up local development environment
 ### Setting local database
