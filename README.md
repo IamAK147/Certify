@@ -11,14 +11,14 @@
 
    > PHP is the most popular and widely-used server-side scripting language for web development. However, it requires a webserver to run even a locally developed webpage.There are various web server software for setting up our local webserver. Amongst them, PHP XAMPP is one of the most popular.
 
-1. To start the local server.
+2. To start the local server.
 
- > Oncee you open the the Xampp Control Panel Window there will be a lot of options. First in the module name 'Apache' click start button and in the 'MYSQL' module click start again. Then click on the 'Admin' of the 'MySQL' module. After clicking on 'admin' you will see a webpage opening on the local brower.
+   > Oncee you open the the Xampp Control Panel Window there will be a lot of options. First in the module name 'Apache' click start button and in the 'MYSQL' module click start again. Then click on the 'Admin' of the 'MySQL' module. After clicking on 'admin' you will see a webpage opening on the local brower.
   
 
   
-1.Run The Code
->Put all the files in an folder and copy the folder to "C:\xampp\htdocs". Then go to your brower and type "localhos/'Your folder Name'" and click enter. Like I put my file in an folder name 'example', So I go to any browser and type "localhost/example" .This will open the Webpage.
+3. Run The Code
+   >Put all the files in an folder and copy the folder to "C:\xampp\htdocs". Then go to your brower and type "localhos/'Your folder Name'" and click enter. Like I put my file in an folder name 'example', So I go to any browser and type "localhost/example" .This will open the Webpage.
 
    ```bash
    npm run contract-deploy
