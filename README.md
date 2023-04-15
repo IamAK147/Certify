@@ -5,10 +5,10 @@
 
 ### Setting local blockchain
 
-1. We need to install CLI version of Ganache.
+1. We need to Download and install xampp to run the SQL files.
 
-   ```bash
-   npm install -g ganache-cli
+   ```
+   https://sourceforge.net/projects/xampp/
    ```
 
    > Ganache provides us our personal local blockchain network which we can use to develop our blockchain application. It also gives temporary test accounts with fake ethereum which we can use to run our apps. We need to start the RPC server before running our application.
