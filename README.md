@@ -9,7 +9,6 @@
    https://sourceforge.net/projects/xampp/
    ```
 
-   > PHP is the most popular and widely-used server-side scripting language for web development. However, it requires a webserver to run even a locally developed webpage.There are various web server software for setting up our local webserver. Amongst them, PHP XAMPP is one of the most popular.
 
 2. To start the local server.
 
