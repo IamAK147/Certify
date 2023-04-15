@@ -25,7 +25,6 @@
    >Put all the files in an folder and copy the folder to "C:\xampp\htdocs". Then go to your brower and type "localhos/'Your folder Name'" and click enter. Like I put my file in an folder name 'example', So I go to any browser and type "localhost/example" .This will open the Webpage.
 
 
-> The above 2 steps need to be run everytime you are running the project.
 
 
 
