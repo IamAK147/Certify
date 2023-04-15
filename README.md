@@ -27,28 +27,10 @@
 > The above 2 steps need to be run everytime you are running the project.
 
 ### Setting local database
+1. Find the file in the Database folder name 'bcertify'.
+2. Open 'localhost/phpmyadmin/'. Then go to Databases -> Click on 'Create Database' -> Giver the database  name '' -> Click on the 'Import' button on the top bar -> Under the 'File to import' Section Click on Browse and Select the .SQL file-> Click 'Import'.
+3. You can see all the tables and Data
 
-> MongoDB server should be running as a background Process
-
-1. Open mongo in terminal using command `mongo`
-
-1. Then change the db using command
-
-   ```bash
-   use certification
-   ```
-
-1. Then set DB user and password with the following command
-
-   ```javascript
-   db.createUser({
-     user: "<YOUR USER NAME>",
-     pwd: "<YOUR USER PASSWORD>",
-     roles: [{ role: "dbOwner", db: "certification" }]
-   });
-   ```
-
-1. Include these username and password in the `.env` file.
 
 ### Now we can start the server
 
@@ -78,20 +60,3 @@ The contract can be deployed in any test networks. We are using Rinkeby test net
 
 1. You will get a contract address of newly generated contract. Save this for further uses.
 
-## Testing app
-
-To test the app run the command `truffle test`. RPC server should be running to run the tests.
-
-## Useful reads
-
-- [Some instructions and commands for debugging in Truffle Console](./instructions/COMMANDS.md)
-
-## Youtube Video for better understanding of the project
-
-[![youtube-picture](https://img.youtube.com/vi/pByqlMCx7Bk/maxresdefault.jpg)](https://www.youtube.com/watch?v=pByqlMCx7Bk)
-
----
-
-| Developers                                             |                                                               |
-| ------------------------------------------------------ | ------------------------------------------------------------- |
-| [Saurabh Thakur](https://github.com/thakursaurabh1998) | ![st](https://avatars0.githubusercontent.com/u/18613564?s=50) |
