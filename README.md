@@ -17,7 +17,7 @@
   
 
   
-1. Deploy the smart contract to the local blockchain.
+3.put all the files in an folder and copy the folder to "C:\xampp\htdocs". Then go to your brower and type "localhos/'Your folder Name'" and click enter. This will open the webpage.
 
    ```bash
    npm run contract-deploy
