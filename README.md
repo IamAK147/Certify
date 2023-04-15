@@ -28,11 +28,6 @@
 
 
 
-### Now we can start the server
-
-```bash
-npm start
-```
 
 
 
