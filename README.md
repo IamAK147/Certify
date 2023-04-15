@@ -5,18 +5,17 @@
 
 ### Setting local blockchain
 
-1. We need to Download and install xampp to run the SQL files.
+1. We need to Download and install xampp to run the PHP files.
 
    ```
    https://sourceforge.net/projects/xampp/
    ```
 
-   > Ganache provides us our personal local blockchain network which we can use to develop our blockchain application. It also gives temporary test accounts with fake ethereum which we can use to run our apps. We need to start the RPC server before running our application.
+   > PHP is the most popular and widely-used server-side scripting language for web development. However, it requires a webserver to run even a locally developed webpage.There are various web server software for setting up our local webserver. Amongst them, PHP XAMPP is one of the most popular.
 
-1. To start the RPC server run the command
+1. To start the local server.
 
-   ```bash
-   npm run ganache
+   ```Oncee you open the the Xampp Control Panel Window there will be a lot of options. First in the module name 'Apache' click start button and in the 'MYSQL' module click start again. Then click on the 'Admin' of the 'MySQL' module. After clicking on 'admin' you will see a webpage opening on the local brower.
    ```
 
    > Windows user will need to run this command in separate command prompt or terminal.
