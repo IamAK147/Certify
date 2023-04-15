@@ -52,7 +52,13 @@ The contract can be deployed in any test networks. We are using Rinkeby test net
 
    ```BASH
    npm run deploy
-   ```
+   ``` 
 
 1. You will get a contract address of newly generated contract. Save this for further uses.
 
+### User Login Details
+   >gmail: vamsee@gmail.com
+   >password: 12345
+### Admin Login Details
+   >gmail: admin@gmail.com
+   >password: adminadmin
