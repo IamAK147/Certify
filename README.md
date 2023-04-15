@@ -15,11 +15,10 @@
 
 1. To start the local server.
 
-   ```Oncee you open the the Xampp Control Panel Window there will be a lot of options. First in the module name 'Apache' click start button and in the 'MYSQL' module click start again. Then click on the 'Admin' of the 'MySQL' module. After clicking on 'admin' you will see a webpage opening on the local brower.
-   ```
+ > Oncee you open the the Xampp Control Panel Window there will be a lot of options. First in the module name 'Apache' click start button and in the 'MYSQL' module click start again. Then click on the 'Admin' of the 'MySQL' module. After clicking on 'admin' you will see a webpage opening on the local brower.
+  
 
-   > Windows user will need to run this command in separate command prompt or terminal.
-
+  
 1. Deploy the smart contract to the local blockchain.
 
    ```bash
